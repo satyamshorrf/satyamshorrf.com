@@ -7,16 +7,16 @@ export default function Home() {
       <div className="flex items-center justify-between mb-12">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold dark:text-white mb-4">
-            Hey, I'm Tania!
+            Hey, I'm Satyam Shorrf!
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300">
             I'm a software engineer, open-source creator, and former professional
-            chef. I've been making websites since 1998 and writing on this blog for
+            chef. I've been making websites since 2024 and writing on this blog for
             the past decade.
           </p>
         </div>
         <img 
-          src="/images/ram-logo.svg" 
+          src="./public/favicon_io/favicon.ico" 
           alt="RAM Logo" 
           className="h-48 w-48 ml-8 hidden md:block"
         />
