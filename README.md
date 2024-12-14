@@ -27,13 +27,6 @@ This repository is provided **as-is**, without any support or guidance for modif
 
 ---
 
-## Alternative Recommendation  
-
-If you are looking to build a similar website (e.g., a blog), I recommend the following tools and templates:  
-- [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)  
-- Existing themes or templates designed specifically for reuse with Gatsby.  
-
----
 
 ## License  
 
@@ -42,3 +35,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---  
 
 Thank you for understanding, and feel free to draw inspiration for your own projects!  
+
+## Author
+-   [@satyamshorrf](https://github.com/satyamshorrf)
