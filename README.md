@@ -1,8 +1,44 @@
-# React + Vite
+# satyamshorrf.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Vercel Status](https://img.shields.io/badge/deploy-building-brightgreen)](https://vercel.com/your-team-name/your-project-name/deployments)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the source code for my personal website, built using **Gatsby**, **React**, and **Node.js**. The project is a custom implementation tailored to my specific needs and preferences. Below is some important information regarding the use and limitations of this repository.  
+
+---
+
+## Purpose of the Code  
+
+This codebase was developed for **personal use only**. It was not designed to serve as a general-purpose template or theme for others to directly clone, modify, or deploy.  
+
+---
+
+## Usage of the Code  
+
+- Feel free to explore and take **inspiration** from the code.  
+- However, note that it is **not intended to be a beginner-friendly or pre-packaged starting point** for website development.  
+- The project is custom-built and may lack the structure or documentation necessary for widespread reuse.  
+
+---
+
+## Support Disclaimer  
+
+This repository is provided **as-is**, without any support or guidance for modification or deployment. If you encounter issues or have questions, you will need to troubleshoot independently.  
+
+---
+
+## Alternative Recommendation  
+
+If you are looking to build a similar website (e.g., a blog), I recommend the following tools and templates:  
+- [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)  
+- Existing themes or templates designed specifically for reuse with Gatsby.  
+
+---
+
+## License  
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---  
+
+Thank you for understanding, and feel free to draw inspiration for your own projects!  
