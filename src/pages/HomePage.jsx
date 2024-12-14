@@ -11,7 +11,7 @@ export default function Home() {
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300">
             I'm a software engineer, open-source creator, and former professional
-            chef. I've been making websites since 2024 and writing on this blog for
+            chef. I've been making websites since 1998 and writing on this blog for
             the past decade.
           </p>
         </div>

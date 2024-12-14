@@ -6,12 +6,8 @@ export default function Notes() {
       year: '2024',
       items: [
         {
-          title: 'Redesign: Version 7.0: Sidebars, light-dark, and Bluesky',
-          date: 'December 1'
-        },
-        {
           title: '2023 into 2024',
-          date: 'January 20'
+          date: 'January 2'
         }
       ]
     },
@@ -20,6 +16,42 @@ export default function Notes() {
       items: [
         {
           title: '2022 into 2023',
+          date: 'January 2'
+        }
+      ]
+    },
+    {
+      year: '2022',
+      items: [
+        {
+          title: '2021 into 2022',
+          date: 'January 2'
+        }
+      ]
+    },
+    {
+      year: '2021',
+      items: [
+        {
+          title: '2020 into 2021',
+          date: 'January 2'
+        }
+      ]
+    },
+    {
+      year: '2020',
+      items: [
+        {
+          title: '2019 into 2020',
+          date: 'January 2'
+        }
+      ]
+    },
+    {
+      year: '2019',
+      items: [
+        {
+          title: '2017 into 2019',
           date: 'January 2'
         }
       ]
